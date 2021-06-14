@@ -1,3 +1,6 @@
+# Adding config.js to gitignore
+Earthquake_Challenge/static/js/config.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
